@@ -168,6 +168,11 @@
     margin: 10%;
 }
 
+.loginPage {
+    position: relative;
+    top:10%;
+}
+
 .logoutButton {
     
     
